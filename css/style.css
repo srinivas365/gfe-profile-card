@@ -12,7 +12,7 @@ body {
   text-rendering: optimizeLegibility;
   display: flex;
   justify-content: center;
-  background-color: #F9FAFB;
+  background-color: linear-gradient(#F9FAFB, #D2D6DB);
 }
 
 * {
